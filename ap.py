@@ -27,11 +27,11 @@ except Exception as e:
     st.stop()
 
 # ORS API config
-ORS_API_KEY = "5b3ce3597851110001cf6248805552724db09ce9c0cb432eadd12425e379847df7388287d71c0c67"
+ORS_API_KEY = "your_key"
 ORS_URL = "https://api.openrouteservice.org/v2/directions/driving-car"
 
 # OpenWeather API config (replace with your key)
-WEATHER_API_KEY = "03cc921a8043f443724dbbf1eb9d1481"
+WEATHER_API_KEY = "your_key"
 WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 # ----------------------------
